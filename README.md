@@ -44,7 +44,7 @@ statistical exercises, study guides, and exam preparation materials.
 
 **Theme 6**
 
-  1. [Objective Checklict and Tutorial in Depth](https://sezsaracoglu-lab.github.io/cognitive_theme-5/)
+  1. [Objective Checklist and Tutorial in Depth](https://sezsaracoglu-lab.github.io/cognitive_theme-5/)
 
 ## Statistics 2
 
