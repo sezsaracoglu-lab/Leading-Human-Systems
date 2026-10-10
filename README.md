@@ -62,6 +62,7 @@ statistical exercises, study guides, and exam preparation materials.
 - [Week 5 Homework 5](https://sezsaracoglu-lab.github.io/stat2_theme5_homework/)
 - [Week 5 Homework 5 and Extra](https://sezsaracoglu-lab.github.io/stat2_theme5_homework_Assigment/)
 - [Week 6 Lecture 6](https://sezsaracoglu-lab.github.io/stat2_theme6_annova/)
+- [Week 6 Homework 6](https://sezsaracoglu-lab.github.io/stat2_theme6_homework/)
 
 
 **Practise Exams**
