@@ -56,6 +56,7 @@ statistical exercises, study guides, and exam preparation materials.
 - [Week 4 Practise questions](https://sezsaracoglu-lab.github.io/theme4_practisetest/)
 - [Week 5 Lecture 5 Multiple Regression](https://sezsaracoglu-lab.github.io/stat2_lecture5/)
 - [Week 5 Homework 5](https://sezsaracoglu-lab.github.io/stat2_theme5_homework/)
+- [Multiple REGRESSION](https://sezsaracoglu-lab.github.io/stat2_theme5_focusedteachig/)
 - [Week 5 Homework 5 and Extra](https://sezsaracoglu-lab.github.io/stat2_theme5_homework_Assigment/)
 - [Week 6 Lecture 6 One Way ANOVA](https://sezsaracoglu-lab.github.io/stat2_theme6_annova/)
 - [One way ANOVA 12 Steps](https://sezsaracoglu-lab.github.io/stat2_theme6_short-teaching/)
