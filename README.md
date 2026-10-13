@@ -66,6 +66,7 @@ statistical exercises, study guides, and exam preparation materials.
 - [One way ANOVA 12 Steps](https://sezsaracoglu-lab.github.io/stat2_theme6_short-teaching/)
 - [Week 6 Homework 6](https://sezsaracoglu-lab.github.io/stat2_theme6_homework/)
 - [Week 7 Lecture 7: Two Way ANOVA](https://sezsaracoglu-lab.github.io/stat2_theme7_lecture/)
+- [Week 7 Homework 7 and Extra](https://sezsaracoglu-lab.github.io/stat2_theme7_solved_homework/)
 
 
 **Practise Exams**
