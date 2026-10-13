@@ -18,7 +18,7 @@ statistical exercises, study guides, and exam preparation materials.
   3. 
 
 **Theme 2**
-  1. [Theme:2 Notes and summeries](https://sezsaracoglu-lab.github.io/cognitive_psychology_theme2_teachings/)
+
   2. [Theme:2 Objective and chekclist](https://sezsaracoglu-lab.github.io/cognitive_theme2_objectiveandchecklist/)
   3. [Theme:2 Deep dives checklist](https://sezsaracoglu-lab.github.io/cognitive_theme2_deepdive_Problem2/)
   4. [Theme:2 Article](https://sezsaracoglu-lab.github.io/cognitive_theme2_article/)
@@ -27,19 +27,14 @@ statistical exercises, study guides, and exam preparation materials.
   
 **Theme 3**
 
-  1. [Concepts 3a notes and summeries](https://sezsaracoglu-lab.github.io/cognitive_theme3_3a/);[Visual advanced version](https://sezsaracoglu-lab.github.io/theme3_autobiography/)
-  2. [Concept 3b notes and summeries](https://sezsaracoglu-lab.github.io/cognitive_concept_3b/); [Visual advanced version](https://sezsaracoglu-lab.github.io/theme3_amnesia/)
-  3. [Objectives](https://sezsaracoglu-lab.github.io/cognitive_theme3_Objectives/)
-  4. [Deep dive](https://sezsaracoglu-lab.github.io/cognitive_theme3/)
+  1. [Objectives](https://sezsaracoglu-lab.github.io/cognitive_theme3_Objectives/)
+  2. [Deep dive](https://sezsaracoglu-lab.github.io/cognitive_theme3/)
 
 **Theme 4**
 
-  1. [Concept 4a](https://sezsaracoglu-lab.github.io/cognitive_theme4a/)
-  2. [Concept 4b](https://sezsaracoglu-lab.github.io/cognitive_theme4_4b/)
-  3. [Article 4c](https://sezsaracoglu-lab.github.io/cognitive_theme4_4c/)
-  4. [Objective Checklist](https://sezsaracoglu-lab.github.io/cognitive_theme4_objectives)
-  5. [Objctive Checklist 2](https://sezsaracoglu-lab.github.io/cognitive_theme4_objective/)
-  6. [Deep dive](https://sezsaracoglu-lab.github.io/cognitive_theme4_problem-statements/)
+  1. [Objective Checklist](https://sezsaracoglu-lab.github.io/cognitive_theme4_objectives)
+  2. [Objctive Checklist 2](https://sezsaracoglu-lab.github.io/cognitive_theme4_objective/)
+  3. [Deep dive](https://sezsaracoglu-lab.github.io/cognitive_theme4_problem-statements/)
 
 
 **Theme 6**
@@ -67,6 +62,7 @@ statistical exercises, study guides, and exam preparation materials.
 - [Week 6 Homework 6](https://sezsaracoglu-lab.github.io/stat2_theme6_homework/)
 - [Week 7 Lecture 7: Two Way ANOVA](https://sezsaracoglu-lab.github.io/stat2_theme7_lecture/)
 - [Week 7 Homework 7 and Extra](https://sezsaracoglu-lab.github.io/stat2_theme7_solved_homework/)
+- [Two way ANOVA](https://sezsaracoglu-lab.github.io/stat2_theme7_focus-/)
 
 
 **Practise Exams**
