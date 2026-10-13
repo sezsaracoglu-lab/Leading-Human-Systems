@@ -2,10 +2,11 @@
 
 Welcome to my second-year Psychology study lab.
 
-This space contains my course notes, practical assignments,
-statistical exercises, study guides, and exam preparation materials.
+This space contains my course notes, practical assignments, statistical exercises, study guides, and exam preparation materials.
 
 [NID](https://sezsaracoglu-lab.github.io/NID_NL/)
+
+[Statistics 1 revision · Mock exam 1](https://sezsaracoglu-lab.github.io/stat2_moc_1/)
 
 ## Courses
 
@@ -13,72 +14,81 @@ statistical exercises, study guides, and exam preparation materials.
 
 **Theme 1**
 
-  1. [Theme:1 Lecture 1 Slide Visuals ]( https://sezsaracoglu-lab.github.io/cognitive_psychology_lecture_1/ )
-  2. [ Easy high level teaching](https://sezsaracoglu-lab.github.io/theme1_visualteachig_v2/)
-  3. 
+- [Lecture 1 Slide Visuals](https://sezsaracoglu-lab.github.io/cognitive_psychology_lecture_1/)
+- [Easy high level teaching](https://sezsaracoglu-lab.github.io/theme1_visualteachig_v2/)
 
 **Theme 2**
 
-  2. [Theme:2 Objective and chekclist](https://sezsaracoglu-lab.github.io/cognitive_theme2_objectiveandchecklist/)
-  3. [Theme:2 Deep dives checklist](https://sezsaracoglu-lab.github.io/cognitive_theme2_deepdive_Problem2/)
-  4. [Theme:2 Article](https://sezsaracoglu-lab.github.io/cognitive_theme2_article/)
-  5. [Theme:2 Lecture 2 Slide Visuals ]( https://sezsaracoglu-lab.github.io/cognitive_psychology_lecture_2/ )
-  6. [Concept Explainer](https://sezsaracoglu-lab.github.io/concept-explainer_visual/)
-  
+- [Objectives and checklist](https://sezsaracoglu-lab.github.io/cognitive_theme2_objectiveandchecklist/)
+- [Deep dives checklist](https://sezsaracoglu-lab.github.io/cognitive_theme2_deepdive_Problem2/)
+- [Article](https://sezsaracoglu-lab.github.io/cognitive_theme2_article/)
+- [Lecture 2 Slide Visuals](https://sezsaracoglu-lab.github.io/cognitive_psychology_lecture_2/)
+- [Concept Explainer](https://sezsaracoglu-lab.github.io/concept-explainer_visual/)
+
 **Theme 3**
 
-  1. [Objectives](https://sezsaracoglu-lab.github.io/cognitive_theme3_Objectives/)
-  2. [Deep dive](https://sezsaracoglu-lab.github.io/cognitive_theme3/)
+- [Objectives](https://sezsaracoglu-lab.github.io/cognitive_theme3_Objectives/)
+- [Deep dive](https://sezsaracoglu-lab.github.io/cognitive_theme3/)
 
 **Theme 4**
 
-  1. [Objective Checklist](https://sezsaracoglu-lab.github.io/cognitive_theme4_objectives)
-  2. [Objctive Checklist 2](https://sezsaracoglu-lab.github.io/cognitive_theme4_objective/)
-  3. [Deep dive](https://sezsaracoglu-lab.github.io/cognitive_theme4_problem-statements/)
-
+- [Objective Checklist](https://sezsaracoglu-lab.github.io/cognitive_theme4_objectives)
+- [Objective Checklist 2](https://sezsaracoglu-lab.github.io/cognitive_theme4_objective/)
+- [Deep dive](https://sezsaracoglu-lab.github.io/cognitive_theme4_problem-statements/)
 
 **Theme 6**
 
-  1. [Objective Checklist and Tutorial in Depth](https://sezsaracoglu-lab.github.io/cognitive_theme-5/)
+- [Objective Checklist and Tutorial in Depth](https://sezsaracoglu-lab.github.io/cognitive_theme-5/)
 
 ## Statistics 2
 
-**Lecture and content**
+**Theme 1**
 
 - [Week 1 and Week 2 Lectures](https://sezsaracoglu-lab.github.io/STAT_2_WEEK1_2/)
 - [Week 1 Lecture 1](https://sezsaracoglu-lab.github.io/stat2_theme1/)
+
+**Theme 2**
+
 - [Week 2 Lecture 2](https://sezsaracoglu-lab.github.io/stat2_lecture2/)
+- [Theme 2 Practice exam](https://sezsaracoglu-lab.github.io/stat_2_theme2_practise-exam/)
+
+**Theme 3**
+
 - [Week 3 Lecture 3 Additional](https://sezsaracoglu-lab.github.io/stat_2_lecture_3/)
 - [Week 3 Lecture 3](https://sezsaracoglu-lab.github.io/stat2_lecture3/)
+- [Theme 3 Practice exam](https://sezsaracoglu-lab.github.io/stat2_theme2_practise-exam/)
+
+**Theme 4 · Regression**
+
 - [Week 4 Lecture 4](https://sezsaracoglu-lab.github.io/stat2_lecture4/)
 - [Week 4 Homework 4 Regression](https://sezsaracoglu-lab.github.io/stat2_homework4/)
 - [REGRESSION](https://sezsaracoglu-lab.github.io/stat2_theme4_focusedteaching/)
 - [Week 4 Homework 4 and Extra](https://sezsaracoglu-lab.github.io/stat2_homework4_Extra/)
-- [Week 4 Practise questions](https://sezsaracoglu-lab.github.io/theme4_practisetest/)
+- [Week 4 Practice questions](https://sezsaracoglu-lab.github.io/theme4_practisetest/)
+- [Theme 4 Practice exam](https://sezsaracoglu-lab.github.io/stat2_regression_practise_Exam/)
+
+**Theme 5 · Multiple Regression**
+
 - [Week 5 Lecture 5 Multiple Regression](https://sezsaracoglu-lab.github.io/stat2_lecture5/)
 - [Week 5 Homework 5](https://sezsaracoglu-lab.github.io/stat2_theme5_homework/)
-- [Multiple REGRESSION](https://sezsaracoglu-lab.github.io/stat2_theme5_focusedteachig/)
+- [Multiple Regression](https://sezsaracoglu-lab.github.io/stat2_theme5_focusedteachig/)
 - [Week 5 Homework 5 and Extra](https://sezsaracoglu-lab.github.io/stat2_theme5_homework_Assigment/)
+
+**Theme 6 · One Way ANOVA**
+
 - [Week 6 Lecture 6 One Way ANOVA](https://sezsaracoglu-lab.github.io/stat2_theme6_annova/)
-- [One way ANOVA 12 Steps](https://sezsaracoglu-lab.github.io/stat2_theme6_short-teaching/)
+- [One Way ANOVA · 12 Steps](https://sezsaracoglu-lab.github.io/stat2_theme6_short-teaching/)
 - [Week 6 Homework 6](https://sezsaracoglu-lab.github.io/stat2_theme6_homework/)
-- [Week 7 Lecture 7: Two Way ANOVA](https://sezsaracoglu-lab.github.io/stat2_theme7_lecture/)
+
+**Theme 7 · Two Way ANOVA**
+
+- [Week 7 Lecture 7 Two Way ANOVA](https://sezsaracoglu-lab.github.io/stat2_theme7_lecture/)
 - [Week 7 Homework 7 and Extra](https://sezsaracoglu-lab.github.io/stat2_theme7_solved_homework/)
-- [Two way ANOVA](https://sezsaracoglu-lab.github.io/stat2_theme7_focus-/)
+- [Two Way ANOVA](https://sezsaracoglu-lab.github.io/stat2_theme7_focus-/)
 
-
-**Practise Exams**
-
-- [Theme 2 Practise exam](https://sezsaracoglu-lab.github.io/stat_2_theme2_practise-exam/)
-- [Theme 3 Practise exam](https://sezsaracoglu-lab.github.io/stat2_theme2_practise-exam/)
-- [Theme 4 Parctise exam](https://sezsaracoglu-lab.github.io/stat2_regression_practise_Exam/)
-
-**Moc Exams**
-
-- [Stat 1 Topics Moc 1](https://sezsaracoglu-lab.github.io/stat2_moc_1/)
-
-  
 ## SPSS 2
 
+**Meeting 2**
+
 - [SPSS Meeting 2](https://sezsaracoglu-lab.github.io/SPSS_year2_theme1/)
-- 
+
