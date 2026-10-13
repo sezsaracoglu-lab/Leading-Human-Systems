@@ -61,8 +61,7 @@ This space contains my course notes, practical assignments, statistical exercise
 **Theme 4 · Regression**
 
 - [Week 4 Lecture 4](https://sezsaracoglu-lab.github.io/stat2_lecture4/)
-- [Week 4 Homework 4 Regression](https://sezsaracoglu-lab.github.io/stat2_homework4/)
-- [REGRESSION](https://sezsaracoglu-lab.github.io/stat2_theme4_focusedteaching/)
+- [REGRESSION 12 Steps Focused Study](https://sezsaracoglu-lab.github.io/stat2_theme4_focusedteaching/)
 - [Week 4 Homework 4 and Extra](https://sezsaracoglu-lab.github.io/stat2_homework4_Extra/)
 - [Week 4 Practice questions](https://sezsaracoglu-lab.github.io/theme4_practisetest/)
 - [Theme 4 Practice exam](https://sezsaracoglu-lab.github.io/stat2_regression_practise_Exam/)
@@ -71,20 +70,20 @@ This space contains my course notes, practical assignments, statistical exercise
 
 - [Week 5 Lecture 5 Multiple Regression](https://sezsaracoglu-lab.github.io/stat2_lecture5/)
 - [Week 5 Homework 5](https://sezsaracoglu-lab.github.io/stat2_theme5_homework/)
-- [Multiple Regression](https://sezsaracoglu-lab.github.io/stat2_theme5_focusedteachig/)
+- [Multiple Regression Focused Study](https://sezsaracoglu-lab.github.io/stat2_theme5_focusedteachig/)
 - [Week 5 Homework 5 and Extra](https://sezsaracoglu-lab.github.io/stat2_theme5_homework_Assigment/)
 
 **Theme 6 · One Way ANOVA**
 
 - [Week 6 Lecture 6 One Way ANOVA](https://sezsaracoglu-lab.github.io/stat2_theme6_annova/)
-- [One Way ANOVA · 12 Steps](https://sezsaracoglu-lab.github.io/stat2_theme6_short-teaching/)
+- [One Way ANOVA Focused Study](https://sezsaracoglu-lab.github.io/stat2_theme6_short-teaching/)
 - [Week 6 Homework 6](https://sezsaracoglu-lab.github.io/stat2_theme6_homework/)
 
 **Theme 7 · Two Way ANOVA**
 
 - [Week 7 Lecture 7 Two Way ANOVA](https://sezsaracoglu-lab.github.io/stat2_theme7_lecture/)
 - [Week 7 Homework 7 and Extra](https://sezsaracoglu-lab.github.io/stat2_theme7_solved_homework/)
-- [Two Way ANOVA](https://sezsaracoglu-lab.github.io/stat2_theme7_focus-/)
+- [Two Way ANOVA Focused Study](https://sezsaracoglu-lab.github.io/stat2_theme7_focus-/)
 
 ## SPSS 2
 
