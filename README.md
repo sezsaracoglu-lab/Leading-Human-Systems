@@ -54,8 +54,8 @@ This space contains my course notes, practical assignments, statistical exercise
 
 **Theme 3**
 
-- [Week 3 Lecture 3 Additional](https://sezsaracoglu-lab.github.io/stat_2_lecture_3/)
 - [Week 3 Lecture 3](https://sezsaracoglu-lab.github.io/stat2_lecture3/)
+- [Chi Square 12 Steps Focused Study](https://sezsaracoglu-lab.github.io/stat2_theme3_focusedstudy/)
 - [Theme 3 Practice exam](https://sezsaracoglu-lab.github.io/stat2_theme2_practise-exam/)
 
 **Theme 4 · Regression**
@@ -70,20 +70,20 @@ This space contains my course notes, practical assignments, statistical exercise
 
 - [Week 5 Lecture 5 Multiple Regression](https://sezsaracoglu-lab.github.io/stat2_lecture5/)
 - [Week 5 Homework 5](https://sezsaracoglu-lab.github.io/stat2_theme5_homework/)
-- [Multiple Regression Focused Study](https://sezsaracoglu-lab.github.io/stat2_theme5_focusedteachig/)
+- [Multiple Regression 12 Steps Focused Study](https://sezsaracoglu-lab.github.io/stat2_theme5_focusedteachig/)
 - [Week 5 Homework 5 and Extra](https://sezsaracoglu-lab.github.io/stat2_theme5_homework_Assigment/)
 
 **Theme 6 · One Way ANOVA**
 
 - [Week 6 Lecture 6 One Way ANOVA](https://sezsaracoglu-lab.github.io/stat2_theme6_annova/)
-- [One Way ANOVA Focused Study](https://sezsaracoglu-lab.github.io/stat2_theme6_short-teaching/)
+- [One Way ANOVA 12 Steps Focused Study](https://sezsaracoglu-lab.github.io/stat2_theme6_short-teaching/)
 - [Week 6 Homework 6](https://sezsaracoglu-lab.github.io/stat2_theme6_homework/)
 
 **Theme 7 · Two Way ANOVA**
 
 - [Week 7 Lecture 7 Two Way ANOVA](https://sezsaracoglu-lab.github.io/stat2_theme7_lecture/)
 - [Week 7 Homework 7 and Extra](https://sezsaracoglu-lab.github.io/stat2_theme7_solved_homework/)
-- [Two Way ANOVA Focused Study](https://sezsaracoglu-lab.github.io/stat2_theme7_focus-/)
+- [Two Way ANOVA 12 Steps Focused Study](https://sezsaracoglu-lab.github.io/stat2_theme7_focus-/)
 
 ## SPSS 2
 
