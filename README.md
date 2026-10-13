@@ -52,6 +52,7 @@ statistical exercises, study guides, and exam preparation materials.
 - [Week 3 Lecture 3](https://sezsaracoglu-lab.github.io/stat2_lecture3/)
 - [Week 4 Lecture 4](https://sezsaracoglu-lab.github.io/stat2_lecture4/)
 - [Week 4 Homework 4 Regression](https://sezsaracoglu-lab.github.io/stat2_homework4/)
+- [REGRESSION](https://sezsaracoglu-lab.github.io/stat2_theme4_focusedteaching/)
 - [Week 4 Homework 4 and Extra](https://sezsaracoglu-lab.github.io/stat2_homework4_Extra/)
 - [Week 4 Practise questions](https://sezsaracoglu-lab.github.io/theme4_practisetest/)
 - [Week 5 Lecture 5 Multiple Regression](https://sezsaracoglu-lab.github.io/stat2_lecture5/)
