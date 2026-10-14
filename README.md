@@ -44,8 +44,7 @@ This space contains my course notes, practical assignments, statistical exercise
 
 **Theme 1**
 
-- [Week 1 and Week 2 Lectures](https://sezsaracoglu-lab.github.io/STAT_2_WEEK1_2/)
-- [Week 1 Lecture 1](https://sezsaracoglu-lab.github.io/stat2_theme1/)
+- [RECAP YEAR 1_STAT 1](https://sezsaracoglu-lab.github.io/stat2_theme1_recap/)
 
 **Theme 2**
 
