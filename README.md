@@ -85,6 +85,10 @@ This space contains my course notes, practical assignments, statistical exercise
 - [Week 7 Homework 7 and Extra](https://sezsaracoglu-lab.github.io/stat2_theme7_solved_homework/)
 - [Two Way ANOVA 12 Steps Focused Study](https://sezsaracoglu-lab.github.io/stat2_theme7_focus-/)
 
+**Practise Exams**
+
+- [ Exam 2025 and Moc Exams 2026](https://sezsaracoglu-lab.github.io/stat2_MocExams/)
+
 ## SPSS 2
 
 **Meeting 2**
