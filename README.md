@@ -89,7 +89,7 @@ This space contains my course notes, practical assignments, statistical exercise
 
 - [Exam 2025 and Moc Exams 2026 Claude](https://sezsaracoglu-lab.github.io/stat2_MocExams/)
 - [Exam 2025 Refined](https://sezsaracoglu-lab.github.io/stat2mocexams/)
-- [Exam 2025 and Moc Exam 2026_ChatGPT](https://sezsaracoglu-lab.github.io/stats-2_Moc2/)
+- [Exam 2025 and Moc Exam 2026 ChatGPT](https://sezsaracoglu-lab.github.io/stats-2_Moc2/)
 
 ## SPSS 2
 
