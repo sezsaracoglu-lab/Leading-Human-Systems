@@ -30,11 +30,9 @@ This space contains my course notes, practical assignments, statistical exercise
 - [Objectives](https://sezsaracoglu-lab.github.io/cognitive_theme3_Objectives/)
 - [Deep dive](https://sezsaracoglu-lab.github.io/cognitive_theme3/)
 
-**Theme 4**
+**Theme 5**
 
-- [Objective Checklist](https://sezsaracoglu-lab.github.io/cognitive_theme4_objectives)
-- [Objective Checklist 2](https://sezsaracoglu-lab.github.io/cognitive_theme4_objective/)
-- [Deep dive](https://sezsaracoglu-lab.github.io/cognitive_theme4_problem-statements/)
+- [Objective Checklist and Tutorial in Depth](https://sezsaracoglu-lab.github.io/theme5_cognitive_version2/)
 
 **Theme 6**
 
