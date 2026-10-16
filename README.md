@@ -42,8 +42,7 @@ This space contains my course notes, practical assignments, statistical exercise
 
 **Theme 7** 
 
-- [Option1: Objective Checklist and Tutorial in Depth](https://sezsaracoglu-lab.github.io/cognitive-psychology_theme7_version1/)
-- [Option2:Objective Checklist and Tutorial in Depth](https://sezsaracoglu-lab.github.io/theme-7_teaching/)
+- [Objective Checklist and Tutorial in Depth](https://sezsaracoglu-lab.github.io/theme-7_teaching/)
 ## Statistics 2
 
 **Theme 1**
