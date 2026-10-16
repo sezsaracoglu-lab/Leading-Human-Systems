@@ -40,6 +40,10 @@ This space contains my course notes, practical assignments, statistical exercise
 
 - [Objective Checklist and Tutorial in Depth](https://sezsaracoglu-lab.github.io/cognitive_theme-5/)
 
+**Theme 7** 
+
+- [ Objective Checklist and Tutorial in Depth](tps://sezsaracoglu-lab.github.io/cognitive-psychology_theme7_version1/)
+
 ## Statistics 2
 
 **Theme 1**
