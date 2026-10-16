@@ -19,16 +19,12 @@ This space contains my course notes, practical assignments, statistical exercise
 
 **Theme 2**
 
-- [Objectives and checklist](https://sezsaracoglu-lab.github.io/cognitive_theme2_objectiveandchecklist/)
-- [Deep dives checklist](https://sezsaracoglu-lab.github.io/cognitive_theme2_deepdive_Problem2/)
-- [Article](https://sezsaracoglu-lab.github.io/cognitive_theme2_article/)
+- 
 - [Lecture 2 Slide Visuals](https://sezsaracoglu-lab.github.io/cognitive_psychology_lecture_2/)
-- [Concept Explainer](https://sezsaracoglu-lab.github.io/concept-explainer_visual/)
 
 **Theme 3**
 
-- [Objectives](https://sezsaracoglu-lab.github.io/cognitive_theme3_Objectives/)
-- [Deep dive](https://sezsaracoglu-lab.github.io/cognitive_theme3/)
+- [Objective Checklist and Tutorial in Depth](https://sezsaracoglu-lab.github.io/cognitive_theme2_version2/)
 
 **Theme 4**
 
