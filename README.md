@@ -96,7 +96,5 @@ This space contains my course notes, practical assignments, statistical exercise
 
 ## SPSS 2
 
-**Meeting 2**
-
-- [SPSS Meeting 2](https://sezsaracoglu-lab.github.io/SPSS_year2_theme1/)
+- [STAT 2 SPSS](https://sezsaracoglu-lab.github.io/STAT2_SPSS/)
 
