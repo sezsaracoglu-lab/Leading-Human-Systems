@@ -59,6 +59,7 @@ This space contains my course notes, practical assignments, statistical exercise
 - [Week 3 Lecture 3](https://sezsaracoglu-lab.github.io/stat2_lecture3/)
 - [Chi Square 12 Steps Focused Study](https://sezsaracoglu-lab.github.io/stat2_theme3_focusedstudy/)
 - [Theme 3 Practice exam](https://sezsaracoglu-lab.github.io/stat2_theme2_practise-exam/)
+- [PRACTISE QUESTIONS INCLUDING HOMEWORK EXERCISE](https://sezsaracoglu-lab.github.io/stat2_kaisquare_practical/)
 
 **Theme 4 · Regression**
 
