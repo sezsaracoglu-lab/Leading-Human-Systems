@@ -52,6 +52,7 @@ This space contains my course notes, practical assignments, statistical exercise
 - [Week 2 Lecture 2](https://sezsaracoglu-lab.github.io/stat2_lecture2/)
 - [Inference for Proportions 12 Step Focused Style](https://sezsaracoglu-lab.github.io/stat2_theme2_focused/)
 - [Theme 2 Practice exam](https://sezsaracoglu-lab.github.io/stat_2_theme2_practise-exam/)
+- [PRACTISE QUESTIONS INCLUDING HOMEWORK EXERCISE](https://sezsaracoglu-lab.github.io/stat2_practisequestions/)
 
 **Theme 3**
 
