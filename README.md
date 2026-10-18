@@ -65,9 +65,7 @@ This space contains my course notes, practical assignments, statistical exercise
 
 - [Week 4 Lecture 4](https://sezsaracoglu-lab.github.io/stat2_lecture4/)
 - [REGRESSION 12 Steps Focused Study](https://sezsaracoglu-lab.github.io/stat2_theme4_focusedteaching/)
-- [Week 4 Homework 4 and Extra](https://sezsaracoglu-lab.github.io/stat2_homework4_Extra/)
-- [Week 4 Practice questions](https://sezsaracoglu-lab.github.io/theme4_practisetest/)
-- [Theme 4 Practice exam](https://sezsaracoglu-lab.github.io/stat2_regression_practise_Exam/)
+- [Week 4 Homework 4 and Extra](https://sezsaracoglu-lab.github.io/stat2_regression_theme4_practise/)
 
 **Theme 5 · Multiple Regression**
 
