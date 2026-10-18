@@ -71,6 +71,7 @@ This space contains my course notes, practical assignments, statistical exercise
 
 - [Week 5 Lecture 5 Multiple Regression](https://sezsaracoglu-lab.github.io/stat2_lecture5/)
 - [Multiple Regression 12 Steps Focused Study](https://sezsaracoglu-lab.github.io/stat2_theme5_focusedteachig/)
+- [Multiple regression 101](https://sezsaracoglu-lab.github.io/stat2_multipleregression_101/)
 - [Week 5 Homework 5 and Extra](https://sezsaracoglu-lab.github.io/stat2_theme5_homework_Assigment/)
 - [Additional practise](https://sezsaracoglu-lab.github.io/STAT2-MULTIPLE_regression_practise/)
 
