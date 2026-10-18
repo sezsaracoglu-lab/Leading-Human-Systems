@@ -70,9 +70,9 @@ This space contains my course notes, practical assignments, statistical exercise
 **Theme 5 · Multiple Regression**
 
 - [Week 5 Lecture 5 Multiple Regression](https://sezsaracoglu-lab.github.io/stat2_lecture5/)
-- [Week 5 Homework 5](https://sezsaracoglu-lab.github.io/stat2_theme5_homework/)
 - [Multiple Regression 12 Steps Focused Study](https://sezsaracoglu-lab.github.io/stat2_theme5_focusedteachig/)
 - [Week 5 Homework 5 and Extra](https://sezsaracoglu-lab.github.io/stat2_theme5_homework_Assigment/)
+- [Additional practise](https://sezsaracoglu-lab.github.io/STAT2-MULTIPLE_regression_practise/)
 
 **Theme 6 · One Way ANOVA**
 
