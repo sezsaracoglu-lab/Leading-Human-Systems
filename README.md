@@ -95,5 +95,5 @@ This space contains my course notes, practical assignments, statistical exercise
 
 ## SPSS 2
 
-- [STAT 2 SPSS Drill](https://sezsaracoglu-lab.github.io/STAT2_SPSS_ExamDrill/)
+- [STAT 2 SPSS Drill](https://sezsaracoglu-lab.github.io/stat2_SPSS_withdecimals/)
 
