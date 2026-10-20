@@ -12,6 +12,7 @@ This space contains my course notes, practical assignments, statistical exercise
 
 ## Cognitive Psychology
 
+- [Interactive Study Tool](https://claude.ai/artifact/6D8xKgptnsDFTwCpD3C7Nk)
 **Theme 1**
 
 - [Objective Checklist and Tutorial in Depth](https://sezsaracoglu-lab.github.io/cognitive_theme_1/)
