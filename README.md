@@ -101,4 +101,5 @@ This space contains my course notes, practical assignments, statistical exercise
 - [STAT 2 SPSS Drill](https://sezsaracoglu-lab.github.io/stat2_SPSS_withdecimals/)
 - [SPSS 2 Exam Drill 2](https://sezsaracoglu-lab.github.io/SPSS2_Examdrill/)
 - [Practise ANOVA](https://sezsaracoglu-lab.github.io/SPSS_Anova_2/)
+- [Practise Categories and T-test](https://sezsaracoglu-lab.github.io/SPSS_drill2_Categories_t-test/)
 
