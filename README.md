@@ -94,6 +94,7 @@ This space contains my course notes, practical assignments, statistical exercise
 - [Exam Drill Claude](https://sezsaracoglu-lab.github.io/stat2_MocExams/)
 - [Exam Replica Refined](https://sezsaracoglu-lab.github.io/stat2mocexams/)
 - [Exam Drill ChatGPT](https://sezsaracoglu-lab.github.io/stats-2_Moc2/)
+- [Question Bank- per topic](https://claude.ai/artifact/Njt7Np9vf4dcGoBEwTHTro)
 
 ## SPSS 2
 
