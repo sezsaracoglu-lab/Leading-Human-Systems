@@ -89,6 +89,9 @@ This space contains my course notes, practical assignments, statistical exercise
 - [Week 7 Homework 7 and Extra](https://sezsaracoglu-lab.github.io/stat2_theme7_solved_homework/)
 - [Two Way ANOVA 12 Steps Focused Study](https://sezsaracoglu-lab.github.io/stat2_theme7_focus-/)
 
+**Theme 8 · Repeated Measures ANOVA**
+
+- - [Week 8 Lecture 7 Repeated Measures ANOVA](https://sezsaracoglu-lab.github.io/stat2_theme8_lecturenotes/)
 **Practise Exams**
 
 - [Exam Drill Claude](https://sezsaracoglu-lab.github.io/stat2_MocExams/)
