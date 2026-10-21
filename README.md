@@ -91,7 +91,8 @@ This space contains my course notes, practical assignments, statistical exercise
 
 **Theme 8 · Repeated Measures ANOVA**
 
-- - [Week 8 Lecture 7 Repeated Measures ANOVA](https://sezsaracoglu-lab.github.io/stat2_theme8_lecturenotes/)
+- [Week 8 Lecture 7 Repeated Measures ANOVA](https://sezsaracoglu-lab.github.io/stat2_theme8_lecturenotes/)
+    
 **Practise Exams**
 
 - [Exam Drill Claude](https://sezsaracoglu-lab.github.io/stat2_MocExams/)
