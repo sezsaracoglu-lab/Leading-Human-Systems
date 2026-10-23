@@ -18,6 +18,7 @@ This space contains my course notes, practical assignments, statistical exercise
 
 - [Objective Checklist and Tutorial in Depth](https://sezsaracoglu-lab.github.io/cognitive_theme_1/)
 - [Lecture 1 Slide Visuals](https://sezsaracoglu-lab.github.io/cognitive_psychology_lecture_1/)
+- [Visual Lecture Notes (matches Word notes)](https://sezsaracoglu-lab.github.io/cognitive_theme_1/#visual)
 
 **Theme 2**
 
