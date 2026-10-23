@@ -49,6 +49,7 @@ This space contains my course notes, practical assignments, statistical exercise
 **Theme 7** 
 
 - [Objective Checklist and Tutorial in Depth](https://sezsaracoglu-lab.github.io/theme-7_teaching/)
+- [Visual Lecture Notes (matches Word notes)](https://sezsaracoglu-lab.github.io/theme-7_teaching/#visual)
 ## Statistics 2
 
 **Theme 1**
