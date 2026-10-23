@@ -31,6 +31,7 @@ This space contains my course notes, practical assignments, statistical exercise
 **Theme 4**
 
 - [Objective Checklist and Tutorial in Depth](https://sezsaracoglu-lab.github.io/cognitive_theme4_version2/)
+- [Visual Lecture Notes (matches Word notes)](https://sezsaracoglu-lab.github.io/cognitive_theme4_version2/#visual)
 
 **Theme 5**
 
