@@ -57,6 +57,7 @@ This space contains my course notes, practical assignments, statistical exercise
 **Theme 8**
 
 - [Visual Lecture Notes (matches Word notes)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-theme8/)
+- [Videos](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-theme8/#videos)
 ## Statistics 2
 
 **Theme 1**
