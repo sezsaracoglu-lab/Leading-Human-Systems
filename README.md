@@ -14,7 +14,6 @@ This space contains my course notes, practical assignments, statistical exercise
 
 - [CogPsych Exam Lab](https://claude.ai/artifact/6D8xKgptnsDFTwCpD3C7Nk)
 - [Cognitive Psychology Exam Trainer](https://claude.ai/artifact/81capgGedjZRW5PW5YcfN5)
-- [Lecture Lab (lecture slides)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-lectures/)
   
 **Theme 1**
 
@@ -60,6 +59,10 @@ This space contains my course notes, practical assignments, statistical exercise
 
 - [Visual Lecture Notes (matches Word notes)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-theme8/)
 - [Videos](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-theme8/#videos)
+
+**Lecture Slides**
+
+- [Lecture 1 · Attention (reader pp. 285–297)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-lectures/)
 ## Statistics 2
 
 **Theme 1**
