@@ -12,7 +12,8 @@ This space contains my course notes, practical assignments, statistical exercise
 
 ## Cognitive Psychology
 
-- [Interactive Study Tool](https://claude.ai/artifact/6D8xKgptnsDFTwCpD3C7Nk)
+- [CogPsych Exam Lab](https://claude.ai/artifact/6D8xKgptnsDFTwCpD3C7Nk)
+- [Cognitive Psychology Exam Trainer](https://claude.ai/artifact/81capgGedjZRW5PW5YcfN5)
   
 **Theme 1**
 
