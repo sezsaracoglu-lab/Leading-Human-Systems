@@ -62,7 +62,11 @@ This space contains my course notes, practical assignments, statistical exercise
 
 **Lecture Slides**
 
-- [Lecture 1 · Attention (reader pp. 285–297)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-lectures/)
+- [Lecture 1 · Attention (reader pp. 285–297)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-lectures/#l1)
+- [Lecture 2 · Malleability of memory (pp. 298–323)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-lectures/#l2)
+- [Lecture 3 · Cognition & emotion (pp. 324–342)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-lectures/#l3)
+- [Lecture 4 · Language & thought (pp. 343–369)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-lectures/#l4)
+- [Lecture 5 · Dual process theory (pp. 370–382)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-lectures/#l5)
 
 ## Statistics 2
 
