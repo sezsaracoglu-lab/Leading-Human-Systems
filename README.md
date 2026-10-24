@@ -63,6 +63,7 @@ This space contains my course notes, practical assignments, statistical exercise
 **Lecture Slides**
 
 - [Lecture 1 · Attention (reader pp. 285–297)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-lectures/)
+
 ## Statistics 2
 
 **Theme 1**
