@@ -62,6 +62,17 @@ This space contains my course notes, practical assignments, statistical exercise
 - [Visual Lecture Notes (matches Word notes)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-theme8/)
 - [Videos](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-theme8/#videos)
 
+**In-Depth Questions (all themes)**
+
+- [Theme 1 · Attention](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-indepth/#t1-1)
+- [Theme 2 · Working memory](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-indepth/#t2-1)
+- [Theme 3 · Autobiographical memory and amnesia](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-indepth/#t3-1)
+- [Theme 4 · Concepts and categories](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-indepth/#t4-1)
+- [Theme 5 · Mental imagery](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-indepth/#t5-1)
+- [Theme 6 · Judgement and decision making](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-indepth/#t6-1)
+- [Theme 7 · Problem solving and creativity](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-indepth/#t7-1)
+- [Theme 8 · Large language models in psychology](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-indepth/#t8-1)
+
 **Lecture Slides**
 
 - [Lecture 1 · Attention (reader pp. 285–297)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-lectures/#l1)
