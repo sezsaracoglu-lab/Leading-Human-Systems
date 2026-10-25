@@ -64,6 +64,11 @@ This space contains my course notes, practical assignments, statistical exercise
 - [Visual Lecture Notes (matches Word notes)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-theme8/)
 - [Videos](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-theme8/#videos)
 
+**Practice Exams**
+
+- [Set 1 · Official practice exam (40 questions)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#set1)
+- [Set 2 · The 2025 exam, reconstructed (37 questions)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#set2)
+
 **In-Depth Questions (all themes)**
 
 - [Theme 1 · Attention](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-indepth/#t1-1)
