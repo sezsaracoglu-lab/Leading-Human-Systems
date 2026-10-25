@@ -29,6 +29,7 @@ This space contains my course notes, practical assignments, statistical exercise
 - [Lecture 2 Slide Visuals](https://sezsaracoglu-lab.github.io/cognitive_psychology_lecture_2/)
 - [Visual Lecture Notes (matches Word notes)](https://sezsaracoglu-lab.github.io/cognitive_theme2_version_5/#visual)
 - [Videos](https://sezsaracoglu-lab.github.io/cognitive_theme2_version_5/#videos)
+- [Video: Block B, working memory one piece at a time (18 min)](https://sezsaracoglu-lab.github.io/cognitive_theme2_version_5/videos/theme2_b_slow.mp4)
 
 **Theme 3**
 
