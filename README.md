@@ -21,6 +21,7 @@ This space contains my course notes, practical assignments, statistical exercise
 - [Lecture 1 Slide Visuals](https://sezsaracoglu-lab.github.io/cognitive_psychology_lecture_1/)
 - [Visual Lecture Notes (matches Word notes)](https://sezsaracoglu-lab.github.io/cognitive_theme_1/#visual)
 - [Videos](https://sezsaracoglu-lab.github.io/cognitive_theme_1/#videos)
+- [Block B game: The Cocktail Party Door (filter theories)](https://claude.ai/artifact/HjvbCwd3qR7p3YEcMbp4y3)
 
 **Theme 2**
 
