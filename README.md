@@ -68,6 +68,7 @@ This space contains my course notes, practical assignments, statistical exercise
 
 - [Set 1 · Official practice exam (40 questions)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#set1)
 - [Set 2 · The 2025 exam, reconstructed (37 questions)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#set2)
+- [Set 3 · Theme 3 test (20 questions, five exam skills)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#set3)
 
 **In-Depth Questions (all themes)**
 
