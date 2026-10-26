@@ -68,12 +68,15 @@ This space contains my course notes, practical assignments, statistical exercise
 
 **Practice Exams**
 
-- [Set 1 · Official practice exam (40 questions)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#set1)
-- [Set 2 · The 2025 exam, reconstructed (37 questions)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#set2)
-- [Set 3 · Theme 3 test (20 questions, five exam skills)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#set3)
-- [Set 4 · Mock exam A (25 questions, Themes 1–8)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#set4)
-- [Set 5 · Mock exam B (25 questions, Themes 1–8)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#set5)
-- [Set 6 · Mock exam C (25 questions, Themes 1–8)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#set6)
+- [Theme 1 · Attention (3 sets)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#t1)
+- [Theme 2 · Working memory (3 sets)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#t2)
+- [Theme 3 · Autobiographical memory and amnesia (3 sets)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#t3)
+- [Theme 4 · Concepts and categories (3 sets)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#t4)
+- [Theme 5 · Mental imagery (3 sets)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#t5)
+- [Theme 6 · Judgement and decision making (3 sets)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#t6)
+- [Theme 7 · Problem solving and creativity (3 sets)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#t7)
+- [Theme 8 · LLMs in psychology (3 sets)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#t8)
+- [Mock exams · official practice exam, the 2025 exam and 3 full mocks](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#mock)
 
 **In-Depth Questions (all themes)**
 
