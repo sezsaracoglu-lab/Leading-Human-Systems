@@ -69,6 +69,7 @@ This space contains my course notes, practical assignments, statistical exercise
 
 **Practice Exams**
 
+- [★ High-yield · 3 mock exams (40 q) + 25 per theme and lectures](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#hy)
 - [Theme 1 · Attention (3 sets)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#t1)
 - [Theme 2 · Working memory (3 sets)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#t2)
 - [Theme 3 · Autobiographical memory and amnesia (3 sets)](https://sezsaracoglu-lab.github.io/dashshboard-/cognitive-exams/#t3)
