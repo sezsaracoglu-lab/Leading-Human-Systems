@@ -100,6 +100,8 @@ This space contains my course notes, practical assignments, statistical exercise
 
 ## Statistics 2
 
+- [⭐ Start here · The course story (read this first)](https://sezsaracoglu-lab.github.io/dashshboard-/stat2-course/)
+
 **Theme 1**
 
 - [RECAP YEAR 1_STAT 1](https://sezsaracoglu-lab.github.io/stat2_theme1_recap/)
