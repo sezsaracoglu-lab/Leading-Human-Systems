@@ -161,6 +161,7 @@ This space contains my course notes, practical assignments, statistical exercise
 
 ## SPSS 2
 
+- [High-yield SPSS exams (replicas + block sets)](https://sezsaracoglu-lab.github.io/dashshboard-/spss-exams/)
 - [STAT 2 SPSS Drill](https://sezsaracoglu-lab.github.io/stat2_SPSS_withdecimals/)
 - [SPSS 2 Exam Drill 2](https://sezsaracoglu-lab.github.io/SPSS2_Examdrill/)
 - [Practise ANOVA](https://sezsaracoglu-lab.github.io/SPSS_Anova_2/)
