@@ -159,6 +159,22 @@ This space contains my course notes, practical assignments, statistical exercise
 - [Exam Drill ChatGPT](https://sezsaracoglu-lab.github.io/stats-2_Moc2/)
 - [Question Bank- per topic](https://sezsaracoglu-lab.github.io/STAT2_questionbank/)
 
+**Stat 2 Exam Prep · 2026**
+
+- [🎯 Last year's exam, rebuilt · 40 questions, every figure recomputed](https://sezsaracoglu-lab.github.io/dashshboard-/stat2-exam2026/#replica)
+- [📘 Tutor practice exam 1 · 16 questions, with the official key](https://sezsaracoglu-lab.github.io/dashshboard-/stat2-exam2026/#tut1)
+- [📗 Tutor practice exam 2 · 14 questions, key worked out and checked](https://sezsaracoglu-lab.github.io/dashshboard-/stat2-exam2026/#tut2)
+- [🏁 Final mock exam 2026 · 40 questions, weighted by what is most likely to come back](https://sezsaracoglu-lab.github.io/dashshboard-/stat2-exam2026/#mock)
+- [📚 All sixteen theme sets · two sets of ten for every theme](https://sezsaracoglu-lab.github.io/dashshboard-/stat2-exam2026/themes.html)
+- [🧭 Theme 1 · Foundations, design and ethics · 2 sets of 10](https://sezsaracoglu-lab.github.io/dashshboard-/stat2-exam2026/themes.html#t1a)
+- [📊 Theme 2 · Proportions · 2 sets of 10](https://sezsaracoglu-lab.github.io/dashshboard-/stat2-exam2026/themes.html#t2a)
+- [🎲 Theme 3 · Chi-square · 2 sets of 10](https://sezsaracoglu-lab.github.io/dashshboard-/stat2-exam2026/themes.html#t3a)
+- [📈 Theme 4 · Correlation and regression · 2 sets of 10](https://sezsaracoglu-lab.github.io/dashshboard-/stat2-exam2026/themes.html#t4a)
+- [📉 Theme 5 · Inference for regression · 2 sets of 10](https://sezsaracoglu-lab.github.io/dashshboard-/stat2-exam2026/themes.html#t5a)
+- [🧪 Theme 6 · One-way ANOVA · 2 sets of 10](https://sezsaracoglu-lab.github.io/dashshboard-/stat2-exam2026/themes.html#t6a)
+- [🔀 Theme 7 · Two-factor ANOVA · 2 sets of 10](https://sezsaracoglu-lab.github.io/dashshboard-/stat2-exam2026/themes.html#t7a)
+- [🔁 Theme 8 · Repeated measures · 2 sets of 10](https://sezsaracoglu-lab.github.io/dashshboard-/stat2-exam2026/themes.html#t8a)
+
 ## SPSS 2
 
 - [High-yield SPSS exams (replicas + block sets)](https://sezsaracoglu-lab.github.io/dashshboard-/spss-exams/)
