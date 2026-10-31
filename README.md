@@ -154,7 +154,6 @@ This space contains my course notes, practical assignments, statistical exercise
     
 **Practise Exams**
 
-- [Exam Drill Claude](https://sezsaracoglu-lab.github.io/stat2_MocExams/)
 - [Six full mock papers](https://sezsaracoglu-lab.github.io/stat2mocexams/)
 - [Exam Drill ChatGPT](https://sezsaracoglu-lab.github.io/stats-2_Moc2/)
 - [Question Bank- per topic](https://sezsaracoglu-lab.github.io/STAT2_questionbank/)
