@@ -160,7 +160,7 @@ This space contains my course notes, practical assignments, statistical exercise
 
 **Stat 2 Exam Prep · 2026**
 
-- [🎯 Mock paper A · 40 questions, every figure recomputed](https://sezsaracoglu-lab.github.io/dashshboard-/stat2-exam2026/#replica)
+- [📝 End-of-term mock exam · all 53 questions, copied across with the worked explanations](https://sezsaracoglu-lab.github.io/dashshboard-/stat2-exam2026/#endterm)
 - [📘 Practice set 1 · 16 questions, with the answer key](https://sezsaracoglu-lab.github.io/dashshboard-/stat2-exam2026/#tut1)
 - [📗 Practice set 2 · 14 questions, key worked out and checked](https://sezsaracoglu-lab.github.io/dashshboard-/stat2-exam2026/#tut2)
 - [🏁 Final mock exam 2026 · 40 questions, weighted by what is most likely to come back](https://sezsaracoglu-lab.github.io/dashshboard-/stat2-exam2026/#mock)
