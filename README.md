@@ -152,12 +152,6 @@ This space contains my course notes, practical assignments, statistical exercise
 
 - [Week 8 Lecture 7 Repeated Measures ANOVA](https://sezsaracoglu-lab.github.io/stat2_theme8_lecturenotes/)
     
-**Practise Exams**
-
-- [Six full mock papers](https://sezsaracoglu-lab.github.io/stat2mocexams/)
-- [Exam Drill ChatGPT](https://sezsaracoglu-lab.github.io/stats-2_Moc2/)
-- [Question Bank- per topic](https://sezsaracoglu-lab.github.io/STAT2_questionbank/)
-
 **Stat 2 Exam Prep · 2026**
 
 - [📝 End-of-term mock exam · all 53 questions, copied across with the worked explanations](https://sezsaracoglu-lab.github.io/dashshboard-/stat2-exam2026/#endterm)
