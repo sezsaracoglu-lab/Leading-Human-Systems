@@ -192,6 +192,7 @@ This space contains my course notes, practical assignments, statistical exercise
 - [The case · design the study app](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#case)
 - [In a nutshell · visual deck per article](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#nut)
 - [Video · ICAP framework: passive, active, constructive, interactive (Chi & Wylie)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#videos)
+- [Video · Generative learning by age: why good strategies can fail young learners (Brod)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#videos)
 
 **Practice Exams**
 
