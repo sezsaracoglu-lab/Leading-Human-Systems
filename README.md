@@ -177,3 +177,19 @@ This space contains my course notes, practical assignments, statistical exercise
 - [Practise ANOVA](https://sezsaracoglu-lab.github.io/SPSS_Anova_2/)
 - [Practise Categories and T-test](https://sezsaracoglu-lab.github.io/SPSS_drill2_Categories_t-test/)
 
+
+## Educational Psychology
+
+**Theme 1 · Learning strategies**
+
+- [Start here · the theme as one story](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/)
+- [Article 1 · ICAP framework (Chi & Wylie, 2014)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#icap-1)
+- [Article 2 · Generative learning by age (Brod, 2021)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#gls-1)
+- [Article 3 · Distributed practice (Gerbier & Toppino, 2015)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#dp-1)
+- [Learning goals · all 8 answered](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#lg)
+- [The case · design the study app](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#case)
+- [Videos](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#videos)
+
+**Practice Exams**
+
+- [Theme 1 · 25 exam-style questions](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-exams/#t1)
