@@ -180,6 +180,8 @@ This space contains my course notes, practical assignments, statistical exercise
 
 ## Educational Psychology
 
+- [⭐ Start here · The course story (read this first)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-course/)
+
 **Theme 1 · Learning strategies**
 
 - [Start here · the theme as one story](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/)
@@ -188,7 +190,8 @@ This space contains my course notes, practical assignments, statistical exercise
 - [Article 3 · Distributed practice (Gerbier & Toppino, 2015)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#dp-1)
 - [Learning goals · all 8 answered](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#lg)
 - [The case · design the study app](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#case)
-- [Videos](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#videos)
+- [In a nutshell · visual deck per article](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#nut)
+- [Video · ICAP framework: passive, active, constructive, interactive (Chi & Wylie)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#videos)
 
 **Practice Exams**
 
