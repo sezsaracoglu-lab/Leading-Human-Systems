@@ -193,6 +193,7 @@ This space contains my course notes, practical assignments, statistical exercise
 - [In a nutshell · visual deck per article](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#nut)
 - [Video · ICAP framework: passive, active, constructive, interactive (Chi & Wylie)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#videos)
 - [Video · Generative learning by age: why good strategies can fail young learners (Brod)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#videos)
+- [Video · Distributed practice: why spacing beats cramming (Gerbier & Toppino)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#videos)
 - [▶ Educational Psychology playlist on YouTube](https://www.youtube.com/playlist?list=PLIfgLNbeNTOE)
 
 **Practice Exams**
