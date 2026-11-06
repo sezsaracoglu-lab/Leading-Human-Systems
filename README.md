@@ -203,6 +203,11 @@ This space contains my course notes, practical assignments, statistical exercise
 
 ### Theme 1 · Job demands and resources
 - [⭐ Start here · the theme as one story](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/)
-- [Article 1 · JD-R theory FAQ (walk-through)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-faq)
+- [1 · Job Demands–Resources Theory: Frequently Asked Questions (walk-through)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-faq)
+- [2 · Job Demands–Resources and Conservation of Resources Theories (walk-through)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-cor)
+- [3 · Job Demands–Resources Theory: Ten Years Later (walk-through)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-ten)
+- [4 · Toward a Theory of Team Resource Mobilization (walk-through)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-team)
+- [5 · Job Crafting: A Powerful Job Redesign Approach (walk-through)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-craft)
+- [6 · It Pays to Play: Playful Work Design (walk-through)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-play)
 - [Learning goals · meeting 1](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#lg)
 - [Tutorial 1 prep · your own demands and resources](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#tut)
