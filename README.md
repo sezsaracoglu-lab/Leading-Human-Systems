@@ -198,3 +198,10 @@ This space contains my course notes, practical assignments, statistical exercise
 **Practice Exams**
 
 - [Theme 1 · 25 exam-style questions](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-exams/#t1)
+
+## World of Work
+
+### Theme 1 · Job demands and resources
+- [⭐ Start here · the theme as one story](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/)
+- [Learning goals · meeting 1](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#lg)
+- [Tutorial 1 prep · your own demands and resources](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#tut)
