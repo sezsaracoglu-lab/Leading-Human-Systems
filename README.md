@@ -203,5 +203,6 @@ This space contains my course notes, practical assignments, statistical exercise
 
 ### Theme 1 · Job demands and resources
 - [⭐ Start here · the theme as one story](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/)
+- [Article 1 · JD-R theory FAQ (walk-through)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-faq)
 - [Learning goals · meeting 1](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#lg)
 - [Tutorial 1 prep · your own demands and resources](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#tut)
