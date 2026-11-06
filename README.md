@@ -209,5 +209,12 @@ This space contains my course notes, practical assignments, statistical exercise
 - [4 · Toward a Theory of Team Resource Mobilization (walk-through)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-team)
 - [5 · Job Crafting: A Powerful Job Redesign Approach (walk-through)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-craft)
 - [6 · It Pays to Play: Playful Work Design (walk-through)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-play)
-- [Learning goals · meeting 1](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#lg)
-- [Tutorial 1 prep · your own demands and resources](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#tut)
+- [Learning goals · all 7 with model answers](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#lg)
+- [Tutorial 1 prep · meeting 1, step by step](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#tut)
+- [In a nutshell · visual recap per reading](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#nut)
+- [Videos](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#videos)
+- [NotebookLM deep-dive prompts](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#nlm)
+
+**Practice Exams**
+
+- [Theme 1 · Job demands and resources (25 questions)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-exams/#t1)
