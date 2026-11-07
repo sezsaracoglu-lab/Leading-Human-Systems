@@ -202,20 +202,35 @@ This space contains my course notes, practical assignments, statistical exercise
 
 ## World of Work
 
-### Theme 1 · Job demands and resources
-- [⭐ Start here · The course story (read this first)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-course/)
-- [Theme 1 · the theme as one story](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/)
-- [Meeting 1 · 1 · Job Demands–Resources Theory: Frequently Asked Questions (walk-through)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-faq)
-- [Meeting 1 · 2 · Job Demands–Resources Theory: Ten Years Later (walk-through)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-ten)
-- [Meeting 2 · 3 · Job Demands–Resources and Conservation of Resources Theories (walk-through)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-cor)
-- [Meeting 2 · 4 · Toward a Theory of Team Resource Mobilization (walk-through)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-team)
-- [Meeting 2 · 5 · Job Crafting: A Powerful Job Redesign Approach (walk-through)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-craft)
-- [Meeting 2 · 6 · It Pays to Play: Playful Work Design (walk-through)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-play)
-- [Meeting 1 learning goals · all 7 with model answers](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#lg)
-- [Tutorial 1 prep · meeting 1, step by step](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#tut)
-- [In a nutshell · visual recap per reading](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#nut)
-- [Videos](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#videos)
-- [NotebookLM deep-dive prompts](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#nlm)
+### Start here
+- [⭐ The course story (read this first)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-course/)
+
+### Theme 1 · Meeting 1 · What JD-R theory says
+- [Theme 1 start · the theme as one story](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/)
+- [1 · Job Demands–Resources Theory: Frequently Asked Questions](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-faq)
+- [2 · Job Demands–Resources Theory: Ten Years Later](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-ten)
+- [Meeting 1 learning goals](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#lg)
+- [Tutorial 1 prep](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#tut)
+
+### Theme 1 · Meeting 2 · Roots, teams and what employees can do
+- [3 · Job Demands–Resources and Conservation of Resources Theories](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-cor)
+- [4 · Toward a Theory of Team Resource Mobilization](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-team)
+- [5 · Job Crafting: A Powerful Job Redesign Approach](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-craft)
+- [6 · It Pays to Play: Playful Work Design](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-play)
+
+### Theme 1 · Recap
+- [In a nutshell](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#nut)
+- [Videos](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#vd)
+- [NotebookLM prompts](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#nlm)
+
+### Theme 2 · The psychology of sustainability in organizations
+- [Meetings 3 and 4 · coming soon](https://sezsaracoglu-lab.github.io/dashshboard-/wow-course/#soon)
+
+### Theme 3 · Recovery, work–home interface in the digital era
+- [Meetings 5 and 6 · coming soon](https://sezsaracoglu-lab.github.io/dashshboard-/wow-course/#soon)
+
+### Theme 4 · Personnel selection, assessment, AI and serious gaming
+- [Meetings 7 and 8 · coming soon](https://sezsaracoglu-lab.github.io/dashshboard-/wow-course/#soon)
 
 **Practice Exams**
 
