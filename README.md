@@ -203,7 +203,8 @@ This space contains my course notes, practical assignments, statistical exercise
 ## World of Work
 
 ### Theme 1 · Job demands and resources
-- [⭐ Start here · the theme as one story](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/)
+- [⭐ Start here · The course story (read this first)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-course/)
+- [Theme 1 · the theme as one story](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/)
 - [1 · Job Demands–Resources Theory: Frequently Asked Questions (walk-through)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-faq)
 - [2 · Job Demands–Resources and Conservation of Resources Theories (walk-through)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-cor)
 - [3 · Job Demands–Resources Theory: Ten Years Later (walk-through)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-theme1/#r-ten)
