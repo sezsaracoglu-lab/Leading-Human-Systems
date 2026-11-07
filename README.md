@@ -234,4 +234,6 @@ This space contains my course notes, practical assignments, statistical exercise
 
 **Practice Exams**
 
+- [★ High-yield 1 · Cases, figures and tables (25 questions)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-exams/#hy1)
+- [★ High-yield 2 · Theory (25 questions)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-exams/#hy2)
 - [Theme 1 · Job demands and resources (25 questions)](https://sezsaracoglu-lab.github.io/dashshboard-/wow-exams/#t1)
