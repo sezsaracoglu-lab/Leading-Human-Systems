@@ -182,23 +182,26 @@ This space contains my course notes, practical assignments, statistical exercise
 
 - [⭐ Start here · The course story (read this first)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-course/)
 
-**Theme 1 · Learning strategies**
+**Theme 1 · Meeting 1 · Learning strategies** (role: learning-tool designer)
 
 - [Start here · the theme as one story](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/)
-- [Article 1 · ICAP framework (Chi & Wylie, 2014)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#icap-1)
-- [Article 2 · Generative learning by age (Brod, 2021)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#gls-1)
-- [Article 3 · Distributed practice (Gerbier & Toppino, 2015)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#dp-1)
-- [Learning goals · all 8 answered](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#lg)
+- [1 · The ICAP Framework (Chi & Wylie, 2014)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#icap-1)
+- [2 · Generative Learning: Which Strategies for What Age? (Brod, 2021)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#gls-1)
+- [3 · The Effect of Distributed Practice (Gerbier & Toppino, 2015)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#dp-1)
+- [Meeting 1 learning goals](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#lg)
 - [The case · design the study app](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#case)
-- [In a nutshell · visual deck per article](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#nut)
-- [Video · ICAP framework: passive, active, constructive, interactive (Chi & Wylie)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#videos)
-- [Video · Generative learning by age: why good strategies can fail young learners (Brod)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#videos)
-- [Video · Distributed practice: why spacing beats cramming (Gerbier & Toppino)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#videos)
+- [In a nutshell · visual deck per reading](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#nut)
+- [Videos · T1 M1-1 ICAP, M1-2 Brod, M1-3 Gerbier & Toppino](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#videos)
+- [NotebookLM video prompts](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-theme1/#nlm)
 - [▶ Educational Psychology playlist on YouTube](https://www.youtube.com/playlist?list=PLIfgLNbeNTOE)
+
+**Themes 2 to 8 · Meetings 2 to 8** · [coming soon](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-course/#soon)
 
 **Practice Exams**
 
-- [Theme 1 · 25 exam-style questions](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-exams/#t1)
+- [★ High-yield 1 · Cases, figures and tables (25 questions)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-exams/#hy1)
+- [★ High-yield 2 · Theory (25 questions)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-exams/#hy2)
+- [Theme 1 · Learning strategies (25 questions)](https://sezsaracoglu-lab.github.io/dashshboard-/edpsy-exams/#t1)
 
 ## World of Work
 
